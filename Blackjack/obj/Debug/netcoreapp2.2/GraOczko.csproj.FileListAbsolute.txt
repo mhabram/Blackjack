@@ -1,0 +1,11 @@
+C:\Users\Mateusz\source\repos\GraOczko\GraOczko\bin\Debug\netcoreapp2.2\GraOczko.deps.json
+C:\Users\Mateusz\source\repos\GraOczko\GraOczko\bin\Debug\netcoreapp2.2\GraOczko.runtimeconfig.json
+C:\Users\Mateusz\source\repos\GraOczko\GraOczko\bin\Debug\netcoreapp2.2\GraOczko.runtimeconfig.dev.json
+C:\Users\Mateusz\source\repos\GraOczko\GraOczko\bin\Debug\netcoreapp2.2\GraOczko.dll
+C:\Users\Mateusz\source\repos\GraOczko\GraOczko\bin\Debug\netcoreapp2.2\GraOczko.pdb
+C:\Users\Mateusz\source\repos\GraOczko\GraOczko\obj\Debug\netcoreapp2.2\GraOczko.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\GraOczko\GraOczko\obj\Debug\netcoreapp2.2\GraOczko.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\GraOczko\GraOczko\obj\Debug\netcoreapp2.2\GraOczko.AssemblyInfoInputs.cache
+C:\Users\Mateusz\source\repos\GraOczko\GraOczko\obj\Debug\netcoreapp2.2\GraOczko.AssemblyInfo.cs
+C:\Users\Mateusz\source\repos\GraOczko\GraOczko\obj\Debug\netcoreapp2.2\GraOczko.dll
+C:\Users\Mateusz\source\repos\GraOczko\GraOczko\obj\Debug\netcoreapp2.2\GraOczko.pdb
